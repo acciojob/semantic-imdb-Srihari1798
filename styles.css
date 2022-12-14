@@ -1,2 +1,13 @@
-
+#actors{
+    color:blueviolet;
+    font-size: larger;
+}
+#quotes{
+    color:chocolate;
+    font-size: larger;
+}
+#footer{
+    color:purple;
+    font-size: larger;
+}
 /* Your CSS Code here. */
